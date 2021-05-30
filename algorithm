@@ -1,0 +1,11 @@
+Start
+Declare variables t,n,i
+Declare variables C,D,L
+Declare a string a
+Initialize the variables int the string 
+Declare C,D,L into the string a
+If Count of C + Count of D is equal t count of their legs L
+Print  YES
+Else
+Print No 
+End
